@@ -36,7 +36,7 @@ function git_prompt_info {
 
 PROMPT='%~%<< ${PR_BOLD_WHITE}>%{${reset_color}%} '
 
-RPROMPT='$(git_prompt_info)'
+# RPROMPT='$(git_prompt_info)'
 
 
 
